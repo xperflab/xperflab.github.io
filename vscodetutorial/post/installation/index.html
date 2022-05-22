@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Tutorial 1: Getting Started with Visual Studio Code</title>
+        
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: red;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://www.xperflab.org/vscodetutorial/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+ 
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script>
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.97.3" />
+        
+
+        
+
+        
+            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+
+        
+
+    </head>
+
+    <body>
+        
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">Tutorial 1: Getting Started with Visual Studio Code</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/vscodetutorial/">Home</a></li>
+                            
+                                <li><a href="/vscodetutorial/about/">About</a></li>
+                            
+                                <li><a href="/vscodetutorial/post/">Tutorials</a></li>
+                            
+                                <li><a href="/vscodetutorial/project/">Projects</a></li>
+                            
+                        </ul>
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:me@example.com"><i class="fas fa-envelope"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/username/"><i class="fab fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://twitter.com/username/"><i class="fab fa-twitter"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/username/"><i class="fab fa-linkedin"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.stackoverflow.com/username/"><i class="fab fa-stack-overflow"></i></a></li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+<main>
+
+    <div>
+        <h2>Tutorial 1: Getting Started with Visual Studio Code</h2>
+        <h5>May 20, 2022</h5>
+        
+
+    </div>
+
+    <div align="start" class="content"><p>In this tutorial, we will walk you through the installation of Visual Studio Code.</p>
+<h2 id="step-1-download-visual-studio-code">Step 1. Download Visual Studio Code</h2>
+<p>Goto <a href="https://code.visualstudio.com/download">VS Code releases</a> and download the appropriate version for your os and archietecture.</p>
+<p><img src="/images/installation/download.png" alt="Download"></p>
+<ol>
+<li>Download <code>Windows</code> if your os is Windows 8, 10, 11</li>
+<li>Download <code>Mac</code> if your os is macOX 10.11+</li>
+</ol>
+<h2 id="step-2-launch-visual-studio-code">Step 2: Launch Visual Studio Code</h2>
+<p>Once the download is complete, let it install the Visual Studio Code on your computer. After it is installed, let&rsquo;s launch the Visual Studio Code.</p>
+<p><img src="/images/installation/welcome.png" alt="WelcomePage"></p>
+<h3 id="step-3-open-a-new-file">Step 3: Open A New File</h3>
+<p>If we want to start with a new file, click the <code>New file</code> from the welcome page, or click the <code>Explorer</code> button the left-hand side then click <code>New file</code></p>
+<p><img src="/images/installation/newfile.png" alt="Newfile"></p>
+<p>Then Visual Studio Code will open a new file where you edit with:</p>
+<p><img src="/images/installation/newfile2.png" alt="Newfile2"></p>
+<p>The new file is labelled as untitled, which means the file is not named yet.</p>
+<p>To save the file, you can either save it from the top-level menu with <code>File &gt; Save</code> (as shown in below figure), or by pressing <code>command + s</code></p>
+<p><img src="/images/installation/save.png" alt="Newfile2"></p>
+<h3 id="step-4-open-a-folder">Step 4: Open A Folder</h3>
+<p>Visual Studio Code works with folder rather than project.</p>
+<p><img src="/images/installation/folder.png" alt="Folder"></p>
+<p>You can either choose to open a new folder, or open an existing folder.</p>
+<p><img src="/images/installation/createnewfolder.png" alt="Folder"></p>
+<p>If you open a new folder, there will be nothing there in the created folder. Then you may want to open a new file like step 3.</p>
+<p>Here we choose to open an existing folder named p_practice. By choose p_practice and click open, Visual Studio Code opens the whole folder, all the files in p_practice are listed like the red box below, then you can click the file you want and open it.</p>
+<p><img src="/images/installation/folder2.png" alt="Folder"></p>
+</div>
+
+    
+    
+    
+
+    
+    
+        <h4 class="page-header">Comments</h4>
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "username" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
+
+</main>
+
+        <footer>
+            <p class="copyright text-muted">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a>.</p>
+        </footer>
+
+        
+
+        
+    </body>
+
+</html>
+
