@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Welcome to CSC 111</title>
-    <link>https://www.xperflab.org/vscodetutorial/post/</link>
+    <link>https://JialiangTan.github.io/vscodetutorial/post/</link>
     <description>Recent content in Posts on Welcome to CSC 111</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.xperflab.org/vscodetutorial/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://JialiangTan.github.io/vscodetutorial/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial 1: Getting Started with Visual Studio Code</title>
-      <link>https://www.xperflab.org/vscodetutorial/post/installation/</link>
+      <link>https://JialiangTan.github.io/vscodetutorial/post/installation/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.xperflab.org/vscodetutorial/post/installation/</guid>
+      <guid>https://JialiangTan.github.io/vscodetutorial/post/installation/</guid>
       <description>In this tutorial, we will walk you through the installation of Visual Studio Code.
 Step 1. Download Visual Studio Code Goto VS Code releases and download the appropriate version for your os and archietecture.
  Download Windows if your os is Windows 8, 10, 11 Download Mac if your os is macOX 10.11+  Step 2: Launch Visual Studio Code Once the download is complete, let it install the Visual Studio Code on your computer.</description>
@@ -20,10 +20,10 @@ Step 1. Download Visual Studio Code Goto VS Code releases and download the appro
     
     <item>
       <title>Tutorial 2: Download and Install Python</title>
-      <link>https://www.xperflab.org/vscodetutorial/post/python/</link>
+      <link>https://JialiangTan.github.io/vscodetutorial/post/python/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.xperflab.org/vscodetutorial/post/python/</guid>
+      <guid>https://JialiangTan.github.io/vscodetutorial/post/python/</guid>
       <description>In this tutorial, you will learn how to download and install Python.
 Step 1: Check Python First step we need to check if Python is already installed on your laptop. If you are working on a cluster, skip this step, we have taken care of everything.
 We can check it via terminal. First, on your VS Code, click Terminal &amp;gt; New Terminal from top menu to open a new terminal: Below red box is the new terminal we just opened.</description>
@@ -31,39 +31,14 @@ We can check it via terminal. First, on your VS Code, click Terminal &amp;gt; Ne
     
     <item>
       <title>Tutorial 3: Python Hello World</title>
-      <link>https://www.xperflab.org/vscodetutorial/post/pythonhelloworld/</link>
+      <link>https://JialiangTan.github.io/vscodetutorial/post/pythonhelloworld/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.xperflab.org/vscodetutorial/post/pythonhelloworld/</guid>
+      <guid>https://JialiangTan.github.io/vscodetutorial/post/pythonhelloworld/</guid>
       <description>In this tutorial, you will use Python 3 to create a simple Python &amp;ldquo;Hello World&amp;rdquo; program in Visual Studio Code. The Microsoft Python extension will be introduced, through using the Python extension, you make VS Code into a great lightweight Python IDE.
 Step 1: Install the Python Extension Let&amp;rsquo;s open VS Code.
 First, you click the Extension button on the left menu to open the Visual Studio Marketplace.
 In the Marketplace, search Python.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://www.xperflab.org/vscodetutorial/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.xperflab.org/vscodetutorial/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://www.xperflab.org/vscodetutorial/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.xperflab.org/vscodetutorial/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
   </channel>

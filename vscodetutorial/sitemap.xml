@@ -2,74 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.xperflab.org/vscodetutorial/project/project1/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/project/project1/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/project/project2/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/project/project2/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/project/project3/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/project/project3/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/project/project4/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/project/project4/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/post/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/post/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/post/installation/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/post/installation/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/post/python/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/post/python/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/post/pythonhelloworld/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/post/pythonhelloworld/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://JialiangTan.github.io/vscodetutorial/about/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/bootstrap/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://JialiangTan.github.io/vscodetutorial/categories/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/css/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/go/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/golang/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/highlight-js/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/html/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/hugo/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/about/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/js/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/bootstrap/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/project/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/categories/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/responsive/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/css/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/syntax-highlighting/</loc>
   </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/highlight-js/</loc>
-  </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/html/</loc>
-  </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/js/</loc>
-  </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/project/</loc>
-  </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/responsive/</loc>
-  </url><url>
-    <loc>https://www.xperflab.org/vscodetutorial/tags/syntax-highlighting/</loc>
+    <loc>https://JialiangTan.github.io/vscodetutorial/tags/</loc>
   </url>
 </urlset>
